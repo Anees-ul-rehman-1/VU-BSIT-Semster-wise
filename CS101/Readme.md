@@ -1,1 +1,1 @@
-this is my cs101 subject intro to computingfg
+this is my cs101 subject intro to computing    
