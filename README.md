@@ -1,44 +1,48 @@
 # 🎓 VU BSIT Semester Wise Repository
 
-This repository contains my complete BSIT journey at Virtual University of Pakistan.
-
-I will upload all my semester-wise:
-- 📚 Notes
-- 📝 Assignments
-- 💻 Lab Tasks
-- 📌 Practice Work
+This repository contains my BSIT academic work at Virtual University of Pakistan, organized in a structured and professional way.
 
 ---
 
-## 📂 Structure
+# 📚 Semester 1 Subjects
 
-### 📁 Semester 1
-- Programming Fundamentals
-- ICT
-- English
-
-### 📁 Semester 2
-- (Coming Soon)
-
----
-
-## 🎯 Purpose
-
-The purpose of this repository is to:
-- Track my learning progress
-- Stay consistent in studies
-- Build a strong academic portfolio on GitHub
+1. CS101 - Introduction to Computer Science  
+2. MTH100 - Basic Mathematics  
+3. MTH101 - Calculus  
+4. MTH202 - Discrete Mathematics  
+5. ENG101 - English Comprehension  
+6. PHY101 - Physics  
+7. PAK301 - Pakistan Studies  
 
 ---
 
-## 👨‍💻 Author
+# 📂 Each Subject Contains
 
-**Anees Ul Rehman**  
+- 📘 Lecture Notes  
+- 📝 Assignments  
+- 💻 Lab Tasks  
+- 📊 Practice Work  
+- 📌 Exam Preparation Material  
+
+---
+
+# 🎯 Purpose
+
+- Maintain organized academic record  
+- Track semester-wise progress  
+- Build professional GitHub portfolio  
+- Prepare for career & freelancing  
+
+---
+
+# 👨‍💻 Author
+
+Anees Ul Rehman  
 BSIT Student - Virtual University of Pakistan  
-Future Web Developer 🚀
+Future Web Developer 🚀  
 
 ---
 
-## ⭐ Note
+# ⭐ Note
 
-This repository will be updated regularly as I progress through my semesters.
+This repository is actively maintained and updated throughout my academic journey.
